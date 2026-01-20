@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Lenny's Friends in Notion](https://lnkd.in/gtEdP5ew)** by Saya Iwasaki - turned Lenny's guests into Notion mentors, so now you can ask anything you want & get feedback from them right in your Notion workspace. Each guest has a persona set up with mental models, frameworks & communication styles; you can also query by companies.
+
 **[Lenny Distilled](https://lennydistilled.com)** by [Harsh Nene](https://www.linkedin.com/in/harshnene/) - A curated collection of PM wisdom to dip into anytime...discover a new insight each visit, trace it back to the source quote and YouTube moment. Mapped to the PM craft across 6 dimensions, minimalist design, multiple languages.
 
 **[Lenny's Library in Radia.io](https://getradia.io/resources/lennys-library)** by Kas Eelman - Leveraging transcripts to provide additional insight in to the product competency assessment for Radia users with citations, meta-data and the original episodes.
