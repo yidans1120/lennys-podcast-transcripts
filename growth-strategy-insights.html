@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lenny's Podcast - Growth Strategy Insights</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .episodes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+        }
+
+        .episode-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-left: 5px solid #667eea;
+        }
+
+        .episode-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .guest-name {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+        }
+
+        .guest-name::before {
+            content: '👤';
+            margin-right: 8px;
+        }
+
+        .episode-title {
+            font-size: 0.95em;
+            color: #666;
+            margin-bottom: 15px;
+            font-style: italic;
+            line-height: 1.4;
+        }
+
+        .insights {
+            margin-top: 15px;
+        }
+
+        .insights-label {
+            font-size: 0.85em;
+            font-weight: 700;
+            color: #667eea;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 10px;
+        }
+
+        .insights-list {
+            list-style: none;
+        }
+
+        .insights-list li {
+            padding: 8px 0;
+            color: #555;
+            font-size: 0.95em;
+            line-height: 1.5;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .insights-list li:last-child {
+            border-bottom: none;
+        }
+
+        .insights-list li::before {
+            content: '→';
+            margin-right: 10px;
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            color: white;
+            opacity: 0.8;
+        }
+
+        footer p {
+            font-size: 0.95em;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+
+            .episodes-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Lenny's Podcast - Growth Strategy Insights</h1>
+            <p>33 episodes of actionable growth strategies from industry experts</p>
+        </header>
+
+        <div class="episodes-grid">
+            <!-- Adam Fishman -->
+            <div class="episode-card">
+                <div class="guest-name">Adam Fishman</div>
+                <div class="episode-title">Growth through onboarding and retention</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Onboarding is a core growth lever, not just a nice-to-have</li>
+                        <li>Cohort-based retention analysis reveals where growth breaks down</li>
+                        <li>First-time user experience determines long-term engagement</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Archie Abrams -->
+            <div class="episode-card">
+                <div class="guest-name">Archie Abrams</div>
+                <div class="episode-title">Distribution strategy and platform selection</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Choose distribution channels aligned with your user behavior</li>
+                        <li>Platform dominance changes require early adoption strategy</li>
+                        <li>Analyze competitor distribution for market gaps</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Bangaly Kaba -->
+            <div class="episode-card">
+                <div class="guest-name">Bangaly Kaba</div>
+                <div class="episode-title">Growth in B2B and enterprise markets</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Enterprise sales cycles require understanding buyer committees</li>
+                        <li>Proof of concept is essential before enterprise deals</li>
+                        <li>Customer success drives expansion revenue in B2B</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Benjamin Lauzier -->
+            <div class="episode-card">
+                <div class="guest-name">Benjamin Lauzier</div>
+                <div class="episode-title">Data-driven growth experimentation</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Run structured A/B tests to validate growth hypotheses</li>
+                        <li>Statistical significance matters more than subjective impressions</li>
+                        <li>Automate data collection for continuous learning</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Brian Chesky -->
+            <div class="episode-card">
+                <div class="guest-name">Brian Chesky</div>
+                <div class="episode-title">Network effects and community building</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Network effects require both supply and demand sides to work</li>
+                        <li>Community-first approach creates defensible competitive advantage</li>
+                        <li>Early trust-building with users drives viral adoption</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Casey Winters -->
+            <div class="episode-card">
+                <div class="guest-name">Casey Winters</div>
+                <div class="episode-title">From non-scalable hacks to scalable systems</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Non-scalable hacks unlock the path to scalable strategies</li>
+                        <li>Obsess over user activation before scaling marketing spend</li>
+                        <li>Product management skills are foundational to growth</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Christopher Miller -->
+            <div class="episode-card">
+                <div class="guest-name">Christopher Miller</div>
+                <div class="episode-title">Building growth culture and accountability</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Radical accountability drives execution velocity</li>
+                        <li>Activation features must be core product, not bolted-on</li>
+                        <li>Curious leaders ask better growth questions</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Deb Liu -->
+            <div class="episode-card">
+                <div class="guest-name">Deb Liu</div>
+                <div class="episode-title">Product-market fit and scaling strategies</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Continuously recapture product-market fit as you scale</li>
+                        <li>Build products like a career—with long-term strategy</li>
+                        <li>Zero-to-one product building requires different skills than scaling</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Elena Verna 4.0 -->
+            <div class="episode-card">
+                <div class="guest-name">Elena Verna 4.0</div>
+                <div class="episode-title">AI growth playbook and PMF treadmill</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>30-40% of traditional growth tactics apply to AI products</li>
+                        <li>The "PMF treadmill" requires constant iteration</li>
+                        <li>AI changes user behavior, requiring new measurement frameworks</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Melissa Tan -->
+            <div class="episode-card">
+                <div class="guest-name">Melissa Tan</div>
+                <div class="episode-title">High-performing teams and execution</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>DACI framework clarifies decision-making in growing teams</li>
+                        <li>First principles hiring creates compounding talent advantage</li>
+                        <li>Team structure directly impacts growth execution speed</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Meltem Kuran -->
+            <div class="episode-card">
+                <div class="guest-name">Meltem Kuran</div>
+                <div class="episode-title">Cheap growth channels and founding growth</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Reddit, SEO, and communities provide cheap growth channels</li>
+                        <li>Deel scaled from $0 to $300M with focus on niche markets</li>
+                        <li>Early distribution choices compound over years</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Sachin Monga -->
+            <div class="episode-card">
+                <div class="guest-name">Sachin Monga</div>
+                <div class="episode-title">Marketplace growth and supply-demand balance</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Balancing supply and demand is critical for marketplace growth</li>
+                        <li>Cold start problems require creative non-scalable solutions</li>
+                        <li>Network effects take time to compound</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Sri Batchu -->
+            <div class="episode-card">
+                <div class="guest-name">Sri Batchu</div>
+                <div class="episode-title">Retention as foundation for growth</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Retention metrics predict sustainable growth more than acquisition</li>
+                        <li>Churn analysis reveals product problems faster than feature requests</li>
+                        <li>Improving retention compounds faster than finding new users</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Yuriy Timen -->
+            <div class="episode-card">
+                <div class="guest-name">Yuriy Timen</div>
+                <div class="episode-title">Growth in competitive markets</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Differentiation strategy determines growth ceiling in crowded markets</li>
+                        <li>Speed of execution matters more than perfect strategy</li>
+                        <li>Customer feedback loops prevent strategic misalignment</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Austin Hay -->
+            <div class="episode-card">
+                <div class="guest-name">Austin Hay</div>
+                <div class="episode-title">Organic and word-of-mouth growth</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Product excellence drives word-of-mouth growth organically</li>
+                        <li>Early adopters are your best growth evangelists</li>
+                        <li>Viral mechanics must be baked into core product</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Brian Balfour -->
+            <div class="episode-card">
+                <div class="guest-name">Brian Balfour</div>
+                <div class="episode-title">Emerging platforms and timing windows</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>ChatGPT represents next major growth distribution window</li>
+                        <li>Early adoption of new platforms creates defensible positions</li>
+                        <li>Distribution windows have limited time windows</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Cam Adams -->
+            <div class="episode-card">
+                <div class="guest-name">Cam Adams</div>
+                <div class="episode-title">Design and user experience growth</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Frictionless user experience directly impacts conversion rates</li>
+                        <li>Micro-interactions accumulate into compounding retention gains</li>
+                        <li>Design debt slows growth velocity</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Crystal W -->
+            <div class="episode-card">
+                <div class="guest-name">Crystal W</div>
+                <div class="episode-title">Community-driven growth strategies</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Community becomes growth engine when properly invested in</li>
+                        <li>User-generated content scales growth exponentially</li>
+                        <li>Authentic relationships with customers drive retention and referrals</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Dan Hockenmaier -->
+            <div class="episode-card">
+                <div class="guest-name">Dan Hockenmaier</div>
+                <div class="episode-title">Sales and revenue growth dynamics</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Sales efficiency metrics are leading indicators of growth sustainability</li>
+                        <li>Sales and product alignment drives predictable revenue growth</li>
+                        <li>Unit economics determine scaling ceiling</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Eli Schwartz -->
+            <div class="episode-card">
+                <div class="guest-name">Eli Schwartz</div>
+                <div class="episode-title">SEO and organic search growth</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>SEO is a long-term growth compounding asset</li>
+                        <li>Content strategy aligns with user search intent</li>
+                        <li>Organic search reduces customer acquisition costs dramatically</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Emily Kramer -->
+            <div class="episode-card">
+                <div class="guest-name">Emily Kramer</div>
+                <div class="episode-title">Product launches and go-to-market strategy</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Successful launches require PR, community, and timing alignment</li>
+                        <li>Momentum from launch compounds into early growth</li>
+                        <li>Go-to-market strategy must match product-market fit stage</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Gustaf Alstromer -->
+            <div class="episode-card">
+                <div class="guest-name">Gustaf Alstromer</div>
+                <div class="episode-title">Y Combinator growth frameworks</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Focus on core metric that moves business forward</li>
+                        <li>Rapid experimentation beats perfect planning</li>
+                        <li>Direct customer feedback loops accelerate growth</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Hila Qu -->
+            <div class="episode-card">
+                <div class="guest-name">Hila Qu</div>
+                <div class="episode-title">Growth in international markets</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Localization goes beyond translation to cultural adaptation</li>
+                        <li>International expansion requires market-specific strategies</li>
+                        <li>Payment and logistics determine growth ceiling in new regions</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Jeanne Grosser -->
+            <div class="episode-card">
+                <div class="guest-name">Jeanne Grosser</div>
+                <div class="episode-title">Brand building and customer loyalty</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Strong brand reduces customer acquisition costs long-term</li>
+                        <li>Consistent brand experience drives repeat purchases</li>
+                        <li>Customer loyalty is growth's best multiplier</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Laura Modi -->
+            <div class="episode-card">
+                <div class="guest-name">Laura Modi</div>
+                <div class="episode-title">Analytics and growth measurement</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Accurate analytics is prerequisite for growth decisions</li>
+                        <li>Event tracking enables granular user behavior analysis</li>
+                        <li>Growth loops require interconnected metrics</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Madhavan Ramanujam -->
+            <div class="episode-card">
+                <div class="guest-name">Madhavan Ramanujam</div>
+                <div class="episode-title">Pricing strategy and value monetization</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Pricing strategy should reflect customer value capture</li>
+                        <li>Value monetization requires understanding willingness to pay</li>
+                        <li>Pricing experiments compound growth faster than feature additions</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Nikita Bier -->
+            <div class="episode-card">
+                <div class="guest-name">Nikita Bier</div>
+                <div class="episode-title">Mobile app growth and engagement</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>App store optimization drives initial install growth</li>
+                        <li>Push notifications and in-app messaging impact retention</li>
+                        <li>Mobile games teach proven engagement mechanics</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Nilan Peiris -->
+            <div class="episode-card">
+                <div class="guest-name">Nilan Peiris</div>
+                <div class="episode-title">Financial modeling and unit economics</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Unit economics determine long-term growth sustainability</li>
+                        <li>CAC payback period is leading indicator of growth health</li>
+                        <li>LTV:CAC ratio benchmarks guide scaling decisions</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Noah Weiss -->
+            <div class="episode-card">
+                <div class="guest-name">Noah Weiss</div>
+                <div class="episode-title">Customer success and expansion revenue</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Customer success is growth lever, not just support function</li>
+                        <li>Expansion revenue compounds customer lifetime value</li>
+                        <li>Proactive customer health monitoring prevents churn</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Noam Lovinsky -->
+            <div class="episode-card">
+                <div class="guest-name">Noam Lovinsky</div>
+                <div class="episode-title">Viral loops and referral programs</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Inherent virality beats bolted-on referral programs</li>
+                        <li>Network effects compound faster than traditional marketing</li>
+                        <li>Incentive structures must align with user behavior</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Sahil Mansuri -->
+            <div class="episode-card">
+                <div class="guest-name">Sahil Mansuri</div>
+                <div class="episode-title">Content marketing and thought leadership</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Content builds trust before conversion happens</li>
+                        <li>Thought leadership attracts inbound enterprise deals</li>
+                        <li>Educational content reduces time to product value</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Sean Ellis -->
+            <div class="episode-card">
+                <div class="guest-name">Sean Ellis</div>
+                <div class="episode-title">Growth hacking framework and PMF test</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Sean Ellis PMF test validates product-market fit objectively</li>
+                        <li>ICE scoring prioritizes highest-impact growth experiments</li>
+                        <li>Growth hacking leverages data to find underutilized channels</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Shishir Mehrotra -->
+            <div class="episode-card">
+                <div class="guest-name">Shishir Mehrotra</div>
+                <div class="episode-title">Organizational alignment and execution</div>
+                <div class="insights">
+                    <div class="insights-label">Key Insights</div>
+                    <ul class="insights-list">
+                        <li>Organizational alignment directly enables growth execution</li>
+                        <li>Cross-functional collaboration accelerates growth velocity</li>
+                        <li>Clear priorities prevent dilution of growth efforts</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>📊 Generated from Lenny's Podcast Growth Strategy Episodes</p>
+            <p style="margin-top: 10px; font-size: 0.85em;">A curated collection of actionable growth insights from industry experts</p>
+        </footer>
+    </div>
+</body>
+</html>
