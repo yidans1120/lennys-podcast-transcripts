@@ -1,0 +1,166 @@
+LENNY'S PODCAST - GROWTH STRATEGY INSIGHTS
+
+Adam Fishman
+→ Onboarding is a core growth lever, not just a nice-to-have
+→ Cohort-based retention analysis reveals where growth breaks down
+→ First-time user experience determines long-term engagement
+
+Archie Abrams
+→ Choose distribution channels aligned with your user behavior
+→ Platform dominance changes require early adoption strategy
+→ Analyze competitor distribution for market gaps
+
+Bangaly Kaba
+→ Enterprise sales cycles require understanding buyer committees
+→ Proof of concept is essential before enterprise deals
+→ Customer success drives expansion revenue in B2B
+
+Benjamin Lauzier
+→ Run structured A/B tests to validate growth hypotheses
+→ Statistical significance matters more than subjective impressions
+→ Automate data collection for continuous learning
+
+Brian Chesky
+→ Network effects require both supply and demand sides to work
+→ Community-first approach creates defensible competitive advantage
+→ Early trust-building with users drives viral adoption
+
+Casey Winters
+→ Non-scalable hacks unlock the path to scalable strategies
+→ Obsess over user activation before scaling marketing spend
+→ Product management skills are foundational to growth
+
+Christopher Miller
+→ Radical accountability drives execution velocity
+→ Activation features must be core product, not bolted-on
+→ Curious leaders ask better growth questions
+
+Deb Liu
+→ Continuously recapture product-market fit as you scale
+→ Build products like a career—with long-term strategy
+→ Zero-to-one product building requires different skills than scaling
+
+Elena Verna 4.0
+→ 30-40% of traditional growth tactics apply to AI products
+→ The "PMF treadmill" requires constant iteration
+→ AI changes user behavior, requiring new measurement frameworks
+
+Melissa Tan
+→ DACI framework clarifies decision-making in growing teams
+→ First principles hiring creates compounding talent advantage
+→ Team structure directly impacts growth execution speed
+
+Meltem Kuran
+→ Reddit, SEO, and communities provide cheap growth channels
+→ Deel scaled from $0 to $300M with focus on niche markets
+→ Early distribution choices compound over years
+
+Sachin Monga
+→ Balancing supply and demand is critical for marketplace growth
+→ Cold start problems require creative non-scalable solutions
+→ Network effects take time to compound
+
+Sri Batchu
+→ Retention metrics predict sustainable growth more than acquisition
+→ Churn analysis reveals product problems faster than feature requests
+→ Improving retention compounds faster than finding new users
+
+Yuriy Timen
+→ Differentiation strategy determines growth ceiling in crowded markets
+→ Speed of execution matters more than perfect strategy
+→ Customer feedback loops prevent strategic misalignment
+
+Austin Hay
+→ Product excellence drives word-of-mouth growth organically
+→ Early adopters are your best growth evangelists
+→ Viral mechanics must be baked into core product
+
+Brian Balfour
+→ ChatGPT represents next major growth distribution window
+→ Early adoption of new platforms creates defensible positions
+→ Distribution windows have limited time windows
+
+Cam Adams
+→ Frictionless user experience directly impacts conversion rates
+→ Micro-interactions accumulate into compounding retention gains
+→ Design debt slows growth velocity
+
+Crystal W
+→ Community becomes growth engine when properly invested in
+→ User-generated content scales growth exponentially
+→ Authentic relationships with customers drive retention and referrals
+
+Dan Hockenmaier
+→ Sales efficiency metrics are leading indicators of growth sustainability
+→ Sales and product alignment drives predictable revenue growth
+→ Unit economics determine scaling ceiling
+
+Eli Schwartz
+→ SEO is a long-term growth compounding asset
+→ Content strategy aligns with user search intent
+→ Organic search reduces customer acquisition costs dramatically
+
+Emily Kramer
+→ Successful launches require PR, community, and timing alignment
+→ Momentum from launch compounds into early growth
+→ Go-to-market strategy must match product-market fit stage
+
+Gustaf Alstromer
+→ Focus on core metric that moves business forward
+→ Rapid experimentation beats perfect planning
+→ Direct customer feedback loops accelerate growth
+
+Hila Qu
+→ Localization goes beyond translation to cultural adaptation
+→ International expansion requires market-specific strategies
+→ Payment and logistics determine growth ceiling in new regions
+
+Jeanne Grosser
+→ Strong brand reduces customer acquisition costs long-term
+→ Consistent brand experience drives repeat purchases
+→ Customer loyalty is growth's best multiplier
+
+Laura Modi
+→ Accurate analytics is prerequisite for growth decisions
+→ Event tracking enables granular user behavior analysis
+→ Growth loops require interconnected metrics
+
+Madhavan Ramanujam
+→ Pricing strategy should reflect customer value capture
+→ Value monetization requires understanding willingness to pay
+→ Pricing experiments compound growth faster than feature additions
+
+Nikita Bier
+→ App store optimization drives initial install growth
+→ Push notifications and in-app messaging impact retention
+→ Mobile games teach proven engagement mechanics
+
+Nilan Peiris
+→ Unit economics determine long-term growth sustainability
+→ CAC payback period is leading indicator of growth health
+→ LTV:CAC ratio benchmarks guide scaling decisions
+
+Noah Weiss
+→ Customer success is growth lever, not just support function
+→ Expansion revenue compounds customer lifetime value
+→ Proactive customer health monitoring prevents churn
+
+Noam Lovinsky
+→ Inherent virality beats bolted-on referral programs
+→ Network effects compound faster than traditional marketing
+→ Incentive structures must align with user behavior
+
+Sahil Mansuri
+→ Content builds trust before conversion happens
+→ Thought leadership attracts inbound enterprise deals
+→ Educational content reduces time to product value
+
+Sean Ellis
+→ Sean Ellis PMF test validates product-market fit objectively
+→ ICE scoring prioritizes highest-impact growth experiments
+→ Growth hacking leverages data to find underutilized channels
+
+Shishir Mehrotra
+→ Organizational alignment directly enables growth execution
+→ Cross-functional collaboration accelerates growth velocity
+→ Clear priorities prevent dilution of growth efforts

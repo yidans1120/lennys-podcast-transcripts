@@ -1,0 +1,365 @@
+[
+  {
+    "guest": "Adam Fishman",
+    "title": "How to build a high-performing growth team",
+    "insights": [
+      "Focus on onboarding and activation as high-impact growth levers—improving these consistently moves the needle more than micro-optimizations",
+      "Translate learnings from user research into product improvements that scale, building insights directly into the experience rather than just running isolated experiments",
+      "Hire growth specialists only after you've proven the concept; early on, focus on fundamentals like product quality and retention",
+      "Cohort retention curves are the true measure of growth health—focus relentlessly on improving them through onboarding and activation",
+      "When you've learned something valuable through human testing, codify it into the product so it benefits everyone at scale"
+    ]
+  },
+  {
+    "guest": "Archie Abrams",
+    "title": "How to speak more confidently and persuasively",
+    "insights": [
+      "Long-term impact of experiments matters more than short-term lift—run experiments and measure their business impact at 1, 2, and 3 years out",
+      "Churn is business-model dependent; don't obsess over absolute churn rate, understand what's healthy for your particular model",
+      "Use cohort analysis to find the users most likely to retain; double down on activation and onboarding for that specific user segment",
+      "Funnel optimization should be collaborative and trust-based, not a silo function—work closely with product to maintain quality standards",
+      "Scale growth by understanding which users are most likely to succeed, then focus acquisition and activation on similar cohorts"
+    ]
+  },
+  {
+    "guest": "Bangaly Kaba",
+    "title": "Unorthodox frameworks for growing your product, career, and impact",
+    "insights": [
+      "Your manager has disproportionate power to affect your career trajectory—if growth is stalled, it's often a manager-fit problem, not a you problem",
+      "Learn by watching great operators work, not just by reading or instruction—actively observe how successful people navigate decisions and team dynamics",
+      "SEO and partnerships were core to Instagram's early growth—virality and word-of-mouth get the credit, but systematic channels matter more",
+      "Deep understanding of your team's needs and passions creates psychological safety, which unlocks better collaboration and idea-sharing",
+      "If you want to build world-class products at scale, you must include diverse voices and perspectives—homogeneous teams miss critical insights"
+    ]
+  },
+  {
+    "guest": "Casey Winters",
+    "title": "Why most product managers are unprepared for the demands of a real startup",
+    "insights": [
+      "There's a spectrum of PM types: innovators who generate endless ideas vs. executioners who ship and optimize—balanced teams need both",
+      "Unsexy investments (performance, UX, developer velocity) often have outsized impact; build custom metrics and run small tests to prove their value to leadership",
+      "Ops is often a sign of process inefficiency—the goal should be software and automation, not scaled headcount for repetitive tasks",
+      "Non-scalable hacks unlock scalable strategies: founder-led sales, manual retention campaigns, and scrappy tactics validate before automation",
+      "Product-market fit erodes over time; you must continuously find new growth strategies as customers shift and competitors adapt"
+    ]
+  },
+  {
+    "guest": "Christopher Miller",
+    "title": "Relentless curiosity, radical accountability, and HubSpot's winning growth formula",
+    "insights": [
+      "Relentless curiosity is the foundational trait for successful growth PMs—obsess over understanding customers qualitatively, not just quantitative metrics",
+      "Radical accountability means treating every growth problem as your problem; ownership mentality uncovers opportunities others miss",
+      "Activation (first-value realization) should be embedded in the core product experience, not built as a separate onboarding layer",
+      "Product-led growth requires deep collaboration between growth and product teams; you can't optimize your way past a poor product experience",
+      "Only 20-30% of growth experiments succeed; if you're hitting >40%, you're thinking too small with your hypotheses"
+    ]
+  },
+  {
+    "guest": "Deb Liu",
+    "title": "Succeeding as an introvert, building zero-to-one, and PM'ing your career like a product",
+    "insights": [
+      "Treat your career like a PM treats a product: write specs, define success metrics, plan features (skills), and align on goals",
+      "Product-market fit is not a destination but something you must continuously recapture—markets evolve and user needs shift",
+      "Build a portfolio of bets: a few big, ambitious projects and many incremental improvements; don't bet everything on one outcome",
+      "Zero-to-one products require patience, small focused teams, freedom to fail, and low expectations for immediate impact",
+      "Resilience through failure is essential; reframe setbacks as stepping stones and learn actively from every stumble"
+    ]
+  },
+  {
+    "guest": "Elena Verna",
+    "title": "The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year",
+    "insights": [
+      "Only 30-40% of traditional growth playbooks transfer to AI companies; spend 95% of energy innovating, 5% optimizing, because the category evolves every 3 months",
+      "Product-market fit treadmill: you must recapture PMF every 3 months as user expectations and competitive landscape shift in fast-moving categories",
+      "Give your product away liberally via freemium to enable word-of-mouth at scale; don't compete on user acquisition if your core product creates network effects",
+      "Minimal lovable product (not MVP): build for delight, not just viability; emotional connection drives retention and word-of-mouth",
+      "Building in public + employee socials + shipping velocity creates sustainable growth narrative and community moat that compounds"
+    ]
+  },
+  {
+    "guest": "Meltem Kuran",
+    "title": "An inside look at Deel's unprecedented growth",
+    "insights": [
+      "Great product is the foundation; no growth strategy compensates for a product people don't value and won't keep using",
+      "Answer questions where people ask them (Reddit, SEO, communities, Quora) before spending on paid ads—cheap channels work when you solve real problems",
+      "Test growth strategies at different budget levels ($0, $10K, $100K) to identify who scales thoughtfully vs. throws money at problems",
+      "Early-stage growth team should focus on fundamentals: is the website fast? Can people find it? Only then layer in paid acquisition",
+      "Cheap channels compound because answers live forever online—one Reddit answer or blog post serves infinite future users without ongoing cost"
+    ]
+  },
+  {
+    "guest": "Sachin Monga",
+    "title": "Building Substack",
+    "insights": [
+      "Economic models based on subscriptions (vs. ads) unlock fundamentally better user experiences because incentives are aligned with user value",
+      "Features compound in their impact on growth—one killer feature can eventually drive the vast majority of your growth as it compounds over time",
+      "As you scale, growth dynamics shift dramatically; strategies that worked at 1M won't work at 10M; you must evolve your approach",
+      "Product-market fit and growth come from finding small groups of people who desperately want what you're building and letting them evangelize",
+      "Build products people want to invite others to use; network effects are the most sustainable growth engine"
+    ]
+  },
+  {
+    "guest": "Sri Batchu",
+    "title": "Lessons from scaling Ramp",
+    "insights": [
+      "Cap table as growth strategy: get founders and operators as early investors; they become customers and champions who drive word-of-mouth",
+      "Growth funnel progression should be: founder-led sales → low-cost marketing (content, community, small events) → PR → paid/brand/SEO",
+      "Build a culture of hypothesis-driven, data-informed decision-making with MVP mentality; people should fail fast and iterate quickly",
+      "Growth ownership means owning output metrics (revenue, pipeline) not just input metrics; accountability aligns incentives with business success",
+      "Repeatable, scalable growth processes matter more than hiring great individual contributors; systems compound more than people"
+    ]
+  },
+  {
+    "guest": "Yuriy Timen",
+    "title": "How to grow a subscription business",
+    "insights": [
+      "Don't prematurely conclude that a channel doesn't work; most companies haven't given channels enough of a real shot with proper execution",
+      "Incrementality testing (turning channels off) is the only true way to measure channel contribution, but requires rigor most companies lack",
+      "Activation is the highest-leverage lever in any funnel; getting users to their aha moment faster improves everything downstream",
+      "If you have strong network effects or word-of-mouth, lean into virality; if not, focus on direct acquisition first",
+      "Subscription businesses need distinct strategies for consumer (focus on retention and engagement) vs. B2B (focus on expansion and upsell)"
+    ]
+  },
+  {
+    "guest": "Austin Hay",
+    "title": "The ultimate guide to Martech",
+    "insights": [
+      "Marketing technology is about managing the systems and data infrastructure that enable growth, not just using point solutions",
+      "As you scale past 100-150 people, you need someone dedicated to MarTech because the data and systems complexity explodes",
+      "The best MarTech hires manage upward, laterally, and downward well; they need strong influencing skills, not just technical knowledge",
+      "Product is part of MarTech—clean up your internal data systems first before optimizing external channels; garbage in, garbage out",
+      "Start thinking about a dedicated MarTech person when you notice tool sprawl and inefficiencies in how growth data flows through your systems"
+    ]
+  },
+  {
+    "guest": "Brian Balfour",
+    "title": "Why ChatGPT will be the next big growth channel",
+    "insights": [
+      "New distribution platforms emerge every 5-10 years; ChatGPT integration will likely be the next major platform shift for startups to capture",
+      "Distribution platform changes are prisoner's dilemmas—if you don't build for the new platform, competitors will, and user expectations will shift regardless",
+      "Great product is necessary but not sufficient; the separation between winners and losers is who builds distribution first",
+      "Platform incumbents don't want to enable their own disruption, so early-movers on new platforms have outsized advantage",
+      "Early-stage companies must focus on one platform and go all-in; late-stage companies should hedge bets across multiple platforms"
+    ]
+  },
+  {
+    "guest": "Cam Adams",
+    "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI",
+    "insights": [
+      "Stay product-obsessed at all scales; the best growth comes from building products people love, not from marketing tactics",
+      "Freemium strategy requires solving a real problem for free users; only optimize monetization after proving core value retention",
+      "Move slowly and intentionally on major product decisions; collect diverse feedback and design collaboratively, not by decree",
+      "Empower teams to build their own solutions rather than centralizing functions; self-service scales better than service-provider models",
+      "Enterprise expansion requires building new products for enterprise needs; one-size-fits-all doesn't work as you scale"
+    ]
+  },
+  {
+    "guest": "Crystal W",
+    "title": "How to scrappily hire for, measure, and unlock growth",
+    "insights": [
+      "Activation through better onboarding is one of the highest-leverage growth opportunities; even small improvements compound massively",
+      "You need tested hypotheses for every major growth initiative; if you can't run an experiment, the idea probably isn't worth pursuing",
+      "You can test and validate at small scale (30 people) as effectively as large scale (100+ people) if your methodology is rigorous",
+      "Retention is the foundation; high retention at small scale beats low retention at large scale every time",
+      "Southeast Asian startups prove that with focused execution, you can grow massive consumer companies despite limited budgets"
+    ]
+  },
+  {
+    "guest": "Benjamin Lauzier",
+    "title": "How marketplaces win: Liquidity, growth levers, quality, more",
+    "insights": [
+      "For pre-PMF marketplaces, focus obsessively on one side and use hacks for the other; don't try to balance both sides until you prove core value",
+      "Ownership and accountability culture in product teams drives better growth outcomes than structure or process alone",
+      "Build teams around business outcomes, not features; give teams a slice of the business and clear P&L responsibility",
+      "Marketplace unit economics and supplier liquidity are more important than marketing spend in early growth",
+      "Network effects take time; focus on depth of engagement on one side first before expanding to new sides"
+    ]
+  },
+  {
+    "guest": "Brian Chesky",
+    "title": "Brian Chesky's new playbook",
+    "insights": [
+      "Shift focus from traditional growth channels (paid, marketing) to building the best product and telling people about it",
+      "Organize by user outcome, not function; one roadmap across company aligned on shared goals drives better speed and product-market fit",
+      "Constant evolution and learning is required; you must always be in a state of becoming, expanding what's possible",
+      "Empower teams to solve their own dependencies rather than centralizing functions; reduces bloat and improves speed",
+      "Product quality and storytelling compound together; neither alone is sufficient, but combined they drive organic growth"
+    ]
+  },
+  {
+    "guest": "Dan Hockenmaier",
+    "title": "Developing a growth model + marketplace growth strategy",
+    "insights": [
+      "Build explicit growth models that map inputs to outputs; these should be core to your strategy docs and how you communicate plans",
+      "Focus growth investments on core product levers, not growth-specific features; retention comes from fundamental product improvements",
+      "Product decisions matter far more than growth tactics when expanding into new segments or geographies",
+      "Pricing strategy is a lever you can optimize, but customer success and product fit come first",
+      "Resurrection and reactivation are tempting but lower-priority compared to improving retention of active users"
+    ]
+  },
+  {
+    "guest": "Eli Schwartz",
+    "title": "Rethinking SEO in the age of AI",
+    "insights": [
+      "SEO is a product strategy question, not a marketing question; product managers should own SEO thinking, not delegating to specialists",
+      "Teaching users what's possible with your product is more valuable than keywords; focus content on solving problems, not ranking",
+      "Hiring expensive growth advisors can short-cut learning curves vs. hiring junior in-house people who take longer to mature",
+      "Product-market fit means people are searching for solutions to problems your product solves; without that, no SEO channel will work",
+      "AI is changing SEO fundamentally; adapt by focusing on demonstrating unique value and problem-solving, not keyword optimization"
+    ]
+  },
+  {
+    "guest": "Emily Kramer",
+    "title": "How to build a powerful marketing machine",
+    "insights": [
+      "For PLG startups, hire product-focused growth people, not pure marketers; product experimentation matters more than marketing tactics",
+      "Separate marketing launch support from product feature evaluation; not all product features should be treated as marketing opportunities",
+      "Cross-functional alignment between product and marketing requires clear definitions of whose job includes what",
+      "Invest in measuring marketing's true impact on retention and monetization, not just top-of-funnel metrics",
+      "Brand and go-to-market strategy should inform product decisions from day one, not be bolted on later"
+    ]
+  },
+  {
+    "guest": "Gustaf Alstromer",
+    "title": "Lessons from working with 600+ YC startups",
+    "insights": [
+      "Early founders must be able to build and iterate on their own; don't hire too much infrastructure before you've proven product-market fit",
+      "Most growth failures come down to simple issues: bad product-market fit, weak founder determination, or lack of customer courage",
+      "Fear of rejection kills early-stage companies; 90% of customers aren't early adopters, but the 10% who are will evangelize relentlessly",
+      "Hire people with internal motivation and determination to win; these traits compound better than pedigree or past success",
+      "Get customers talking to each other and creating content about your product; community is a free growth machine at early stage"
+    ]
+  },
+  {
+    "guest": "Melissa Tan",
+    "title": "Building high-performing teams",
+    "insights": [
+      "High-performing teams combine: clear goals/mission, results orientation, team-first collaboration, ownership mentality, and fun",
+      "Develop talent internally over hiring experts; institutional knowledge and context matter more than external credentials",
+      "Clarify your point of view on go-to-market early; mixing consumer and B2B without clear strategy causes teams to optimize for wrong metrics",
+      "DACI framework (Driver, Accountable, Contributor, Informed) eliminates ambiguity and enables faster decision-making",
+      "Engage the whole company in growth thinking; revenue ownership shouldn't be siloed to growth team"
+    ]
+  },
+  {
+    "guest": "Andy Raskin",
+    "title": "The power of strategic narrative",
+    "insights": [
+      "Strategic narrative is about defining a movement, not just solving a customer's problem; this alignment drives adoption at scale",
+      "Tell a coherent story about why your product exists and why customers need it; narrative creates sense-making and buy-in",
+      "Market movements create the conditions for new products to scale; ride movements rather than creating products and then looking for markets",
+      "Narrative should be used by product leaders and PMs to align teams around why you're building what you're building",
+      "Differentiation through story is more sustainable than feature parity; narrative compounds as more people internalize and share it"
+    ]
+  },
+  {
+    "guest": "Bill Carr",
+    "title": "Unpacking Amazon's unique ways of working",
+    "insights": [
+      "Bar Raiser hiring process improves retention by preventing bad hires; the upfront time investment is small vs. long-term management burden",
+      "Document-driven decision-making (like Amazon's 6-pagers) improves clarity and accountability in distributed teams",
+      "Customer obsession drives innovation better than competitor focus; ask what would delight customers, not what competitors are doing",
+      "Disagree and commit: high-quality decision-making requires debate, but once decided, everyone rows in same direction",
+      "High hiring standards compound; hiring below standards creates cascading quality degradation in future hires and culture"
+    ]
+  },
+  {
+    "guest": "Bob Moesta",
+    "title": "How to find work you love | Jobs-to-be-Done framework",
+    "insights": [
+      "People don't buy products; they hire products to make progress in their lives—understand the job-to-be-done, not the product features",
+      "One product can serve multiple jobs; when you understand the jobs, you can tailor onboarding and product experience to each pathway",
+      "Customer research should focus on the progress people are trying to make, not on satisfaction or feature preferences",
+      "The same product can unlock growth by turning off irrelevant features for different job-to-be-done segments",
+      "Growth accelerates when product becomes genuinely helpful for the specific job customers are trying to accomplish"
+    ]
+  },
+  {
+    "guest": "Carole Robin",
+    "title": "How to build deeper, more robust relationships",
+    "insights": [
+      "Vulnerability and emotional honesty are essential to great leadership; teams perform better when leaders model authenticity",
+      "Giving feedback is a learnable skill; most people are terrible at it because they haven't been taught how to do it well",
+      "Exceptional relationships drive retention, team performance, and growth; they're not soft skills, they're strategic business drivers",
+      "Deep relationships require active listening and genuine curiosity about others' experiences and motivations",
+      "Continuous improvement beyond sufficiency is how relationships and teams thrive; push 15% beyond comfort to deepen trust"
+    ]
+  },
+  {
+    "guest": "Chip Huyen",
+    "title": "AI Engineering 101",
+    "insights": [
+      "Evaluation frameworks matter more than model selection; focus on defining what 'good' means before agonizing over which model to use",
+      "Cost-benefit analysis of AI improvements: optimize for impact on business metrics, not marginal improvements in model accuracy",
+      "Data quality and labeling are critical bottlenecks; invest in these before trying to optimize model performance",
+      "AI failures can have catastrophic consequences in some domains; understand your risk profile and evaluate rigorously",
+      "Focus engineering effort on features that improve real user value, not on staying up-to-date with the latest AI frameworks and tools"
+    ]
+  },
+  {
+    "guest": "Dalton Caldwell",
+    "title": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting",
+    "insights": [
+      "Early founders should stay scrappy; hiring senior execs and PMs too early creates overhead before you've proven product-market fit",
+      "Customer conversations and physical presence matter more than sophisticated marketing; get out of the building and talk to people face-to-face",
+      "Perseverance and resilience separate successful founders from those who give up; most overnight successes took 5+ years of grinding",
+      "Solve the hard customer problems first; focus on retention and deep product value before scaling acquisition",
+      "Many failure patterns are preventable with discipline: don't scale team or spend too early, stay focused on core value"
+    ]
+  },
+  {
+    "guest": "Dylan Field",
+    "title": "Figma's CEO: Why AI makes design, craft, and quality the new moat for startups",
+    "insights": [
+      "Craft and quality become the moat in AI-native markets; commoditized intelligence requires differentiation through design and experience",
+      "Build trust with your team by empowering them to experiment; if it's not fatal, let people try their ideas",
+      "Product intuition is a hypothesis generator; combine intuition with data to make better decisions faster",
+      "Design and taste are increasingly important as AI commoditizes execution; focus on creating beautiful, delightful experiences",
+      "Stay opinionated on design while remaining flexible on strategy; quality compounds and becomes harder to replicate"
+    ]
+  },
+  {
+    "guest": "Gokul Rajaram",
+    "title": "Designing your product development process, hiring your first PM, and getting ahead in your career",
+    "insights": [
+      "Dedicated head of product becomes necessary around 4-5 PM team size; before that, PMs can report to CEO or founders",
+      "Fast-pivoting teams with clear product vision attract investor interest and find product-market fit faster",
+      "Opportunity doesn't come from linear career progression; build relationships across company and stay informed about emerging needs",
+      "Define the problem (what outcome to optimize) before specifying the solution (which feature to build)",
+      "Empower teams with clarity on outcomes, not directives on solutions; autonomy drives better product decisions"
+    ]
+  },
+  {
+    "guest": "Sean Ellis",
+    "title": "The original growth hacker reveals his secrets",
+    "insights": [
+      "Product-market fit means a percentage of users would be very disappointed if your product went away; measure this explicitly",
+      "Focus on super users and their needs; double down on what excites them and cut features they don't use",
+      "Don't aggressively grow until you've achieved clear product-market fit; premature scaling wastes money and destroys moat",
+      "ICE framework (Impact, Confidence, Ease) helps prioritize growth experiments in a structured way",
+      "Freemium as a growth strategy works when your free product delivers real value; use it to find your super users, then monetize them"
+    ]
+  },
+  {
+    "guest": "Shishir Mehrotra",
+    "title": "The rituals of great teams",
+    "insights": [
+      "Blue loops (scalable growth mechanisms) are the most valuable; identify the organic, viral, or word-of-mouth loop and optimize it ruthlessly",
+      "Activation aha moment should have no friction or cost; embedding monetization in the core sharing/activation experience blocks growth",
+      "Rituals create culture and alignment; great teams have explicit ceremonies and norms that reinforce their values",
+      "Clarity on decision rights prevents slow decision-making; define who drives, who approves, who contributes, and who's informed for each decision type",
+      "Culture is defined by the product you build for your employees; internal tools and processes matter as much as external product"
+    ]
+  },
+  {
+    "guest": "Noah Weiss",
+    "title": "The 10 traits of great PMs, AI, and Slack's approach to product",
+    "insights": [
+      "Product-market fit is stacked S-curves; you win one segment, then must find and win the next segment, and the next",
+      "PMF with current users doesn't equal PMF with target users; you must recapture fit as you expand markets or segments",
+      "Word-of-mouth and customer love are increasingly necessary for scaling big businesses as paid channels saturate",
+      "Continuous product-market fit requires systematic processes; don't assume yesterday's PMF guarantees tomorrow's growth",
+      "Improve team velocity and energy through clarity of purpose, autonomy in execution, and removing decision friction"
+    ]
+  }
+]
